@@ -23,7 +23,7 @@ Recall that the GN algorithm works as follows.
 
 The input graph will be provided in a JSON file where each line represents an edge in the graph. For example, the input for the graph below is as follows:
 
-<img src="Data_Mining_5_Graph_Partitioning_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
+<img src="net.png" style="display: block; margin: auto;" />
 
     ["a","b"]
     ["a","c"]
